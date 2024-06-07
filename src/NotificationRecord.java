@@ -1,4 +1,4 @@
-package com.yourcompany.notificationservice;
+package com.echocell.notificationservice;
 
 public class NotificationRecord {
     private String msisdn;
