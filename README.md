@@ -50,7 +50,7 @@ notification-service/
 - Maven
 
 ## Email Configuration
-`
+
 Configure email settings in src/resources/email.properties
 Example: 
 ```
