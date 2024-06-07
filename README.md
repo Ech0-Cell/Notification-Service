@@ -73,4 +73,4 @@ Example:
 bootstrap.servers=localhost:9092
 group.id=notification-group
 topic.name=NotificationTopic
-
+```
