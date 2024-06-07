@@ -31,7 +31,7 @@ notification-service/
 │   │   └── email.properties
 ├── .gitignore
 └── README.md
-
+```
 
 ### Files and Directories
 
