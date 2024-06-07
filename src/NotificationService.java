@@ -1,4 +1,4 @@
-package com.yourcompany.notificationservice;
+package com.echocell.notificationservice;
 
 import java.util.*;
 import java.util.concurrent.LinkedBlockingQueue;
