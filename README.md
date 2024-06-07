@@ -2,9 +2,9 @@
 
 This Java application demonstrates a notification service that polls messages from a Kafka topic and sends notifications via email.
 
-How to Run
+## How to Run
 
-    Clone the repository:
+Clone the repository:
 
 git clone https://github.com/yourusername/notification-service.git
 cd notification-service
@@ -19,15 +19,16 @@ java -jar target/notification-service.jar
 
 ## Project Structure
 
+```plaintext
 notification-service/
 ├── src/
-│ ├── main/
-│ │ ├── MockKafka.java
-│ │ ├── NotificationService.java
-│ │ ├── NotificationRecord.java
-│ ├── resources/
-│ │ ├── kafka.properties
-│ │ └── email.properties
+│   ├── main/
+│   │   ├── MockKafka.java
+│   │   ├── NotificationService.java
+│   │   ├── NotificationRecord.java
+│   ├── resources/
+│   │   ├── kafka.properties
+│   │   └── email.properties
 ├── .gitignore
 └── README.md
 
