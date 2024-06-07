@@ -50,9 +50,10 @@ notification-service/
 - Maven
 
 ## Email Configuration
-```
+`
 Configure email settings in src/resources/email.properties
 Example: 
+```
 mail.smtp.host=smtp.example.com
 mail.smtp.port=587
 mail.smtp.auth=true
